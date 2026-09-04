@@ -1,0 +1,35 @@
+푼 문제
+- Stack
+    - 백준 4949 [Silver 4]
+    - 백준 2493 [Gold 5]
+- Queue 
+    - 백준 1966 [Silver 3]
+    - 백준 2164 [Silver 4]
+- Deque
+    - 백준 5430 [Gold 5]
+- BFS
+    - 백준 1260 [Silver 2] -> DFS & BFS
+    - 백준 2178 [Silver 1]
+    - 백준 1697 [Silver 1]
+    - 백준 10026 [Gold 5]
+    - 백준 7569 [Gold 5]
+    - 백준 14502 [Gold 4]
+    - 백준 2206 [Gold 3]
+- DFS
+    - 백준 1012 [Silver 2]
+    - 백준 2667 [Silver 1]
+    - 백준 7576 [Gold 5]
+    - 백준 1987 [Gold 4]
+- Tree
+    - 백준 11725 [Silver 2]
+    - 백준 1991 [Silver 1]
+- Backtracking
+    - 백준 14888 [Silver 1]
+- Dijkstra
+    - 백준 1916 [Gold 5]
+    - 백준 1753 [Gold 4]
+- Binary Search
+    - 백준 1920 [Silver 4]
+    - 백준 10816 [Silver 4]
+- DP
+    - 백준 1463 [Silver 3]
